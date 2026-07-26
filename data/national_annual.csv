@@ -1,0 +1,13 @@
+year,annual_addition_gw,cumulative_installed_gw,data_confidence,source
+2015,1.5,,Approx (public range),CleanEnergyWire: annual additions <2 GW in 2015-2017
+2016,1.5,,Approx (public range),CleanEnergyWire: annual additions <2 GW in 2015-2017
+2017,1.8,,Approx (public range),CleanEnergyWire: growth resumed after 2017
+2018,2.9,,Approx (widely-cited estimate),Industry estimates (BSW-Solar / IEA historical series)
+2019,3.9,,Approx (widely-cited estimate),Industry estimates (BSW-Solar / IEA historical series)
+2020,4.9,,Approx (widely-cited estimate),Industry estimates (BSW-Solar / IEA historical series)
+2021,5.3,,Approx (widely-cited estimate),Industry estimates (BSW-Solar / IEA historical series)
+2022,7.5,,Approx (widely-cited estimate),Industry estimates (BSW-Solar / IEA historical series)
+2023,14.4,81.7,Confirmed,Bundesnetzagentur / Fraunhofer ISE
+2024,16.73,98.43,Confirmed,Bundesnetzagentur (via Taiyang News citation)
+2025,16.4,117,Confirmed (BNetzA prelim.),"Bundesnetzagentur press release, 8 Jan 2026"
+2026,7,124.9,"Confirmed (H1 only, partial year)","Fraunhofer ISE / PV Tech, H1 2026 data (as of 30 Jun 2026)"
